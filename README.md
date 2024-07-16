@@ -11,5 +11,4 @@ A Ecommerce based Flutter Project crafted keenly with firebase as the backend.
 ![Screenshot 2024-07-15 202611](https://github.com/user-attachments/assets/f0b65281-4f7c-4e13-bdf1-5963d3dc8b3f)
 ![Screenshot 2024-07-15 202558](https://github.com/user-attachments/assets/b48bead9-7811-4aa3-afbc-2cc4b987c770)
 ![Screenshot 2024-07-15 202523](https://github.com/user-attachments/assets/cf3edda5-76d2-4204-943e-764f419e3cb8)
-![Screenshot 2024-07-15 114249](https://github.com/user-attachments/assets/c819366c-18f4-4504-9c6b-5d67eca19a34)
-![Screenshot 2024-07-15 114237](https://github.com/user-attachments/assets/c23cff4b-3e78-4d70-9ae4-fc516f0eedcd)
+
